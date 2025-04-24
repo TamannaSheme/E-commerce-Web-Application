@@ -1,4 +1,3 @@
-
 # Ecommerce Manual Testing Project
 
 This repository provides a structured documentation of manual testing performed on an eCommerce web application. Each document captures specific testing aspects to ensure functional correctness and user experience validation.
